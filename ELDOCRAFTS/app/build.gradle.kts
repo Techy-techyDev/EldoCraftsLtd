@@ -78,6 +78,8 @@ dependencies {
     implementation("io.ktor:ktor-client-content-negotiation:2.3.4")
     implementation("io.ktor:ktor-serialization-kotlinx-json:2.3.4")
     implementation("io.ktor:ktor-client-logging:2.3.4")
+    implementation("androidx.navigation:navigation-compose:2.7.4")
+    implementation("androidx.core:core-splashscreen:1.0.0")
 
 //    coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.2")
